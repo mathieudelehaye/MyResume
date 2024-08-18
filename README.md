@@ -1,3 +1,3 @@
-# cv
+# MyResume
 
-Visit my CV website: https://mathieudelehaye.github.io/MyResume/ 
+Visit my resume website: https://mathieudelehaye.github.io/MyResume/ 
