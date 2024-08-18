@@ -3,7 +3,7 @@ const path = require('path');
 const app = express();
 
 // Serve static files (HTML, CSS, etc.)
-app.use(express.static(__dirname + '/public'));
+app.use(express.static(path.join(__dirname)));
 
 // Start the server
 const PORT = 3000;
