@@ -147,8 +147,8 @@ page[size="A4"] {
 }
 
 .leftPanel {
-  width: 27%;
-  background-color: #484444;
+  width: 39%;
+  background-color: #3a526a;
   padding: 0.7cm;
   display: flex;
   flex-direction: column;
@@ -156,8 +156,12 @@ page[size="A4"] {
 }
 
 .rightPanel {
-  width: 73%;
+  width: 61%;
   padding: 0.7cm;
+}
+.rightPanel a {
+  color: #484444;
+  font-size: 0.35cm;
 }
 
 .leftPanel img {
