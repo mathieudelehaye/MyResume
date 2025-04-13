@@ -10,9 +10,9 @@ Visit my resume website: https://mathieudelehaye.github.io/MyResume/
   <img src="screenshots/Screenshot01.png" alt="Screenshot01.png" style="float: left; margin-right: 10px;" width="600" hspace="10" />
 </p>
 
-Start backend:
-
 ## How-to guide
+
+Start backend:
 
 ```powershell
 node .\server.js
